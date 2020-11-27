@@ -1,5 +1,6 @@
 # [MIT6.830](http://db.lcs.mit.edu/6.830/)
-实现一个数据库
+正在写掘金小册，预计年底写完。小册写完再回来实现一个数据库。
+
 ## 问题
 ### 1. ant: srcdir attribute must be non-empty
 [stackoverflow-ant-srcdir-attribute-must-be-non-empty](https://stackoverflow.com/questions/49104089/ant-srcdir-attribute-must-be-non-empty)
