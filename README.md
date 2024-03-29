@@ -1,5 +1,5 @@
 # [MIT6.830](http://db.lcs.mit.edu/6.830/)
-今年的目标是进大厂，对于找工作来说，学习软件工程和算法更重要点。所以实现一个数据库的计划只能暂时搁置。
+暂时没时间，有时间再搞...
 
 ## 问题
 ### 1. ant: srcdir attribute must be non-empty
